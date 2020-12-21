@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853185857760",
+    "project_id": "kontrolrelay-f7a7e",
+    "storage_bucket": "kontrolrelay-f7a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853185857760:android:01c5f2c4aae11c281b6885",
+        "android_client_info": {
+          "package_name": "com.example.kontrol_relay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853185857760-87pr6tq38ql02bqr3r2vieoh3r1fj7dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kontrol_relay",
+            "certificate_hash": "38612e1c464d8f0152da00dcf75b9627148b7674"
+          }
+        },
+        {
+          "client_id": "853185857760-fbj89s1f76tmd5b80shefeap0h624mo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlo6qGhnHTBcoNRoCaoTncTJ8sZhIm240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853185857760-fbj89s1f76tmd5b80shefeap0h624mo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
